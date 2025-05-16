@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<record>
+  <scientific>Pteropus poliocephalus</scientific>
+  <common>Grey-headed Flying-Fox</common>
+  <taxonomy>
+    <class>Mammalia</class>
+    <order>Chiroptera</order>
+  </taxonomy>
+  <tags>
+    <item>bat</item>
+    <item>chiroptera</item>
+    <item>mammal</item>
+  </tags>
+  <observations>
+    <item>
+      <uname>benweatherley</uname>
+      <coords>
+        <latitude>-31.85</latitude>
+        <longitude>152.45</longitude>
+      </coords>
+      <date>2025-03-11T12:53:00+11:00</date>
+      <url>https://www.inaturalist.org/observations/265345357</url>
+    </item>
+    <item>
+      <uname>mypatchofheaven</uname>
+      <coords>
+        <latitude>-27.53</latitude>
+        <longitude>151.21</longitude>
+      </coords>
+      <date>2024-09-03T19:43:00+10:00</date>
+      <url>https://www.inaturalist.org/observations/269946705</url>
+    </item>
+  </observations>
+</record>
